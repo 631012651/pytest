@@ -1,5 +1,5 @@
 # pytest
-                                                                              pytest测试框架
+                                                       pytest测试框架
 
 1、	环境准备
 Pytest安装：          pip install pytest==6.0.2
